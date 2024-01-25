@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DisplayAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAdminContractPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAdminCreateCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAdminCreateContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAssistant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAssistantContractHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAssistantDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAssistantFeedbackHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAssistantRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAssistantSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayBusinessInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayCarDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayDriverContractHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayDriverDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayDriverFeedbackHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayDriverRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayDriverSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayOwner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayOwnerAllCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayOwnerAllContracts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayOwnerAllEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayOwnerAllFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayContractDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayOwnerAllRenters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayOwnerRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterChooseToCreateContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterChooseToFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterChooseToPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterContractHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterFeedbackHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterRentCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRentalPolicy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayRenterSendFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayAboutVRS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplaySalaryPolicy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayWinFormExamplecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
